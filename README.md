@@ -1,13 +1,13 @@
 Hi, I'm Omer Ozbek 😊
 
 🚀 Uzmanlık Alanlarım:
-- 📊 **Veri Analizi ve Görselleştirme** (Power BI, Excel, Python)
-- 🤖 **Yapay Zeka ve Makine Öğrenimi**
-- 📂 **SQL Veritabanı Yönetimi**
-- 🌐 **Python ile Uygulama Geliştirme**
+- 📊 **Data Analysis and Visualization** (Power BI, Excel, Python)
+- 🤖 **Artificial Intelligence and Machine Learning**
+- 📂 **SQL Database Management**
+- 🌐 **Application Development with Python**
 
 
-  🛠️ Kullandığım Diller ve Araçlar:
+  🛠️ Languages and Tools Used:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -19,7 +19,7 @@ Hi, I'm Omer Ozbek 😊
 
 
 
- 📈 GitHub İstatistiklerim:
+ 📈 My GitHub Statistics:
 
 ![Omerozbek16588's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omerozbek16588&show_icons=true&theme=radical)
 
@@ -28,7 +28,7 @@ Hi, I'm Omer Ozbek 😊
 
 
 
- 🌐 Beni Takip Edin:
+ 🌐 Follow Me:
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omer12874)
 
