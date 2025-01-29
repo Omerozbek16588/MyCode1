@@ -1,6 +1,6 @@
 Hi, I'm Omer Ozbek 😊
 
-🚀 Uzmanlık Alanlarım:
+🚀 My Areas of Expertise:
 - 📊 **Data Analysis and Visualization** (Power BI, Excel, Python)
 - 🤖 **Artificial Intelligence and Machine Learning**
 - 📂 **SQL Database Management**
